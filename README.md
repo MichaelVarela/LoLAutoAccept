@@ -2,6 +2,7 @@
 Automatically accepts your League of Legends games and sends a text message to your phone through gmailSMTP
 
 ![autoaccept-screenshot](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWQyYTVkazF2YzJ3cG14dG00djdoaW1vNWxhNjM3NHY2YW5wZTFlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e6Nx7hmnx9FLPjMNS1/giphy.gif)
+
 <img src="/resources/text.jpg" width="300" height="500"/>
 
 ## How It's Made:
